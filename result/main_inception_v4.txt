@@ -1,0 +1,16 @@
+2019-02-24 17:55:55 main_inception_v4
+Epoch:  0, Precision: 39.71722365, Loss: 2.10697539
+Epoch:  1, Precision: 43.60539846, Loss: 1.92597014
+Epoch:  2, Precision: 45.95115681, Loss: 1.85219494
+Epoch:  3, Precision: 51.63881748, Loss: 1.65218900
+Epoch:  4, Precision: 53.18123393, Loss: 1.60523730
+Epoch:  5, Precision: 54.43444730, Loss: 1.57294125
+---------------Step into next stage----------------
+Epoch:  6, Precision: 58.70822622, Loss: 1.40371836
+Epoch:  7, Precision: 59.76863753, Loss: 1.38522619
+Epoch:  8, Precision: 60.89331620, Loss: 1.37537837
+---------------Step into next stage----------------
+Epoch:  9, Precision: 61.47172237, Loss: 1.35663362
+Epoch: 10, Precision: 61.05398458, Loss: 1.36591017
+Epoch: 11, Precision: 61.50385604, Loss: 1.35588674
+* best acc: 61.50385604  main_inception_v4.py

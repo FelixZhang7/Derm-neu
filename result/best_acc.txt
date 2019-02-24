@@ -1,0 +1,1 @@
+2019-02-24 19:45:54  * best acc: 61.50385604  main_inception_v4.py
